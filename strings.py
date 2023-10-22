@@ -1,0 +1,18 @@
+print("Varshith Pabbisetty")
+print("Varshith\"Pabbisetty")
+print("Varshith\Pabbisetty")
+
+phrase = "Varshith Pabbisetty"
+print(phrase)
+print(phrase + " is cool")
+print(phrase.lower())
+print(phrase.upper())
+print(phrase.isupper())
+print(phrase.upper().isupper())
+print(phrase.capitalize())
+print(phrase.title())
+print(len(phrase))
+print(phrase[0])
+print(phrase.index("a"))
+print(phrase.index("Pabbisetty"))
+print(phrase.replace("Varshith", "Krishna Varshith"))
